@@ -51,5 +51,3 @@ I build modern, scalable web applications with a focus on clean code and great u
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed1001001147@gmail.com)
 
 ---
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmed-del11&theme=tokyonight&hide_border=true)
