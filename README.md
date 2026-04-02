@@ -39,13 +39,14 @@ I build modern, scalable web applications with a focus on clean code and great u
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [TechGear](https://github.com/ahmed-del11/techgear) | E-Commerce platform for electronics | React, Node.js, Express, MongoDB |
+| [FluentUp](https://github.com/ahmed-del11/techgear) | A premium AI-powered English learning platform designed to accelerate language acquisition through immersive shadowing, smart vocabulary building, and interactive AI tutoring. Built with React and powered by Llama 3.3.	 | React, Vite, Tailwind CSS, Llama 3.3, Supabase, Google Auth, RTL Support, Glassmorphism |
 | [SmartFinance](https://github.com/ahmed-del11/smartfinance) | Personal expense tracker with data visualization | React, Python, FastAPI, SQLite |
-
+| [Sanad ](https://github.com/ahmed-del11/smartfinance) | A comprehensive AI-powered SaaS platform featuring intelligent chat engines, interactive language learning (Cinema Shadowing module), and AI-driven automated expense analytics. Built with a modern, responsive interface for web and mobile. The platform also features seamless WhatsApp and Telegram bot integrations and robust subscription management.
+ | Next.js, React, TypeScript, TailwindCSS, Supabase, OpenAI, Stripe |
 ---
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rouge-ten-k3hf1ebs9e.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ahmedramadan.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ramadan-9641ba211)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed1001001147@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed@ahmedramadan.dev)
