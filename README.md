@@ -39,10 +39,11 @@ I build modern, scalable web applications with a focus on clean code and great u
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [FluentUp](https://github.com/ahmed-del11/techgear) | A premium AI-powered English learning platform designed to accelerate language acquisition through immersive shadowing, smart vocabulary building, and interactive AI tutoring. Built with React and powered by Llama 3.3.	 | React, Vite, Tailwind CSS, Llama 3.3, Supabase, Google Auth, RTL Support, Glassmorphism |
+| [FluentUp](https://github.com/ahmed-del11/learn-english-ai) | A premium AI-powered English learning platform designed to accelerate language acquisition through immersive shadowing, smart vocabulary building, and interactive AI tutoring. Built with React and powered by Llama 3.3.	 | React, Vite, Tailwind CSS, Llama 3.3, Supabase, Google Auth, RTL Support, Glassmorphism |
 | [SmartFinance](https://github.com/ahmed-del11/smartfinance) | Personal expense tracker with data visualization | React, Python, FastAPI, SQLite |
-| [Sanad ](https://github.com/ahmed-del11/smartfinance) | A comprehensive AI-powered SaaS platform featuring intelligent chat engines, interactive language learning (Cinema Shadowing module), and AI-driven automated expense analytics. Built with a modern, responsive interface for web and mobile. The platform also features seamless WhatsApp and Telegram bot integrations and robust subscription management.
+| [Sanad ](https://www.sanadd.me/) | A comprehensive AI-powered SaaS platform featuring intelligent chat engines, interactive language learning (Cinema Shadowing module), and AI-driven automated expense analytics. Built with a modern, responsive interface for web and mobile. The platform also features seamless WhatsApp and Telegram bot integrations and robust subscription management.
  | Next.js, React, TypeScript, TailwindCSS, Supabase, OpenAI, Stripe |
+ 
 ---
 
 ## Connect With Me
